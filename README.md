@@ -26,8 +26,4 @@ Feel free to connect with me on LinkedIn or Discord:
 
 I'm an avid gamer and love to unwind by playing video games in my free time. It helps me relax and sparks my creativity!
 
-## 📊 GitHub Stats
-
-[![IggsGrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=IggsGrey&show_icons=true&theme=dark)](https://github.com/IggsGrey)
-
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
