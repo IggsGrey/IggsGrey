@@ -18,10 +18,10 @@ My favourite OS is linux and I love and support rust development and MDN
 ## 📫 How to Reach Me
 
 Feel free to connect with me on LinkedIn or Discord:
-- [![jaygrey.jg@gmail.com](https://img.shields.io/badge/Email-jaygrey.jg%40gmail.com-%23cc372e)](mailto:jaygrey.jg@gmail.com)
-- ![Discord - scarrexx](https://img.shields.io/badge/Discord-scarrexx-%236f86d4)
-- [![John Aggrey](https://img.shields.io/badge/Linkedin-John%20Aggrey-%230077B5)](https://www.linkedin.com/in/iggsgrey)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-http%3A%2F%2Figgs.atwebpages.com-%238A2BE2)](http://iggs.atwebpages.com)
+- [![jaygrey.jg@gmail.com](https://img.shields.io/badge/Email-jaygrey.jg%40gmail.com-%23cc372e)](mailto:jaygrey.jg@gmail.com) -> jaygrey.jg@gmail.com
+- ![Discord - scarrexx](https://img.shields.io/badge/Discord-scarrexx-%236f86d4) -> scarrexx
+- [![John Aggrey](https://img.shields.io/badge/Linkedin-John%20Aggrey-%230077B5)](https://www.linkedin.com/in/iggsgrey) -> John Aggrey
+- [![Portfolio](https://img.shields.io/badge/Portfolio-http%3A%2F%2Figgs.atwebpages.com-%238A2BE2)](http://iggs.atwebpages.com) -> http://iggs.atwebpages.com
 
 ## 🌟 Fun Fact
 
