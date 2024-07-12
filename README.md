@@ -27,7 +27,7 @@ My favourite OS is linux and I love and support rust development and MDN
 I still play mini militia and I don't say "kids" in the game chat when I'm winning a match.
 
 <hr />
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
 <hr />
 
 
