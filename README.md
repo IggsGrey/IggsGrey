@@ -54,8 +54,8 @@ $${\color{#5000ca}My \space \color{#56565E}Tools}$$
 
 
 
-<div>
-<img src="https://code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png" alt="Developers for Firefox" />
+<div align="center">
+<img src="https://code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png" alt="Developers for Firefox" width="150" />
 </div>
 
 $${\color{#5000ca}That's \space all \space \color{#56565E}Folks}$$
