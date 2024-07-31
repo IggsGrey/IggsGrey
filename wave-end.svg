@@ -7,7 +7,4 @@
     </linearGradient>
   </defs>
   <path fill="url(#grad1)" fill-opacity="1" d="M0,32L0,224L288,224L288,256L576,256L576,128L864,128L864,288L1152,288L1152,192L1440,192L1440,320L1152,320L1152,320L864,320L864,320L576,320L576,320L288,320L288,320L0,320L0,320Z"></path>
-  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle" fill="#FFFFFF" font-size="48" font-weight="bold" font-family="Arial, sans-serif">
-    Hi, I'm Ignatius
-  </text>
 </svg>
